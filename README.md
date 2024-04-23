@@ -8,9 +8,9 @@
   🌱 Aprendiendo **Todo lo relacionado con la ciencia de datos y el analisis de datos**
   
    📚 Proyectos destacados:
-     - ASL_Alphabet
-     - Movies_Recommender
-     - CV_JobsAI
+     - <a href="https://github.com/jarodriguezf/ASL_Alphabet" target="_blank">ASL_Alphabet</a>
+     - <a href="https://github.com/jarodriguezf/MoviesRecommender" target="_blank">MoviesRecommender</a>
+     - <a href="https://github.com/jarodriguezf/CV_JobsAI" target="_blank">CV_JobsAI</a>
 
   <h3>Lenguajes y herramientas que uso en mis proyectos:</h3>
 </div>
@@ -24,7 +24,7 @@
 <div align="center">
   <h3>Contacta conmigo por:</h3>
   <p>
-  <a href="https://www.linkedin.com/in/jorge-alejandro-rodr%C3%ADguez-fern%C3%A1ndez-63a73624a/" target="blank"><img align="center" src="https://github.com/jarodriguezf/jarodriguezf/assets/112967594/83d62958-4cf8-4127-a63d-d36ce52b94f6" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/jorge-alejandro-rodr%C3%ADguez-fern%C3%A1ndez-63a73624a/" target="_blank"><img align="center" src="https://github.com/jarodriguezf/jarodriguezf/assets/112967594/83d62958-4cf8-4127-a63d-d36ce52b94f6" height="30" width="30" /></a>
   <a href="mailto:jarodriguezf123@gmail.com" target="blank"><img align="center" src="https://github.com/jarodriguezf/jarodriguezf/assets/112967594/67ba025b-6f6d-4122-8f21-e9806c0d7e75" height="30" width="30" /></a>
   </p>
   
