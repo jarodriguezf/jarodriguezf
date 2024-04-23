@@ -1,7 +1,8 @@
 <div align="center">
 
   <h1>¡Hola 👋, soy Jorge!</h1>
-  <h3>Un apasionado desarrollador de IA en España</h3>
+  
+  <h3>Un apasionado desarrollador de IA 🤖 y el mundo de los datos 📊 /h3>
   
   🔭 Actualmente estoy trabajando en mi proyecto personal Student_Analysis
   
