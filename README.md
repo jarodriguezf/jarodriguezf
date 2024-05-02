@@ -4,7 +4,7 @@
   
   <h3>Un apasionado desarrollador de IA 🤖 y el mundo de los datos 📊</h3>
   
-  🔭 Actualmente formándome en el mundo de la IA y el big data.
+  🔭 Actualmente realizando proyectos enfocados en ETL.
   
   🌱 Aprendiendo **Todo lo relacionado con la ciencia de datos y el analisis de datos**
   
