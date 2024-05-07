@@ -6,7 +6,7 @@
   
   🔭 Actualmente realizando proyectos enfocados en ETL.
   
-  🌱 Aprendiendo **Todo lo relacionado con la ciencia de datos y el analisis de datos**
+  🌱 Aprendiendo **Todo lo relacionado con el data science, data engineer y data analyst**
   
    📚 Proyectos destacados:
      - <a href="https://github.com/jarodriguezf/ASL_Alphabet" target="_blank">ASL_Alphabet</a>
