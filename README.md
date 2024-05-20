@@ -4,7 +4,7 @@
   
   <h3>Un apasionado desarrollador de IA 🤖 y el mundo de los datos 📊</h3>
   
-  🔭 Actualmente realizando proyectos enfocados en ETL.
+  🔭 Actualmente realizando proyecto de predicción energético.
   
   🌱 Aprendiendo **Todo lo relacionado con el data science, data engineer y data analyst**
   
