@@ -4,7 +4,7 @@
   
   <h3>Un apasionado desarrollador de IA 🤖 y el mundo de los datos 📊</h3>
   
-  🔭 Actualmente realizando proyectos con Spark!!.
+  🔭 Actualmente realizando proyectos en tiempo real!!.
   
   🌱 Aprendiendo **Todo lo relacionado con el data science, data engineer y data analyst**
   
