@@ -17,10 +17,9 @@
 </div>
 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white), ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white),![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white), ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white),![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white),
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white), ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FF6F52?logo=huggingface&logoColor=white), ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white), ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white),
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white),![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black), ![Jupyter Notebooks](https://img.shields.io/badge/-Jupyter%20Notebooks-orange?logo=jupyter&logoColor=white),![SQL](https://img.shields.io/badge/-SQL-blue?logo=sql&logoColor=white),
-![Seaborn](https://img.shields.io/badge/-Seaborn-9B59B6?logo=seaborn&logoColor=white),![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white),![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white),
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white), ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white), ![SQL](https://img.shields.io/badge/-SQL-blue?logo=sql&logoColor=white),
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white), ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apache-airflow&logoColor=white), ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white),
+![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apachespark&logoColor=white)
 
 <br>
 <div align="center">
