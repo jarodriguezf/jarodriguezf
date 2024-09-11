@@ -9,7 +9,7 @@
   🌱 Aprendiendo **Todo lo relacionado con el data science, data engineer y data analyst**
   
    📚 Proyectos destacados:
-     - <a href="https://github.com/jarodriguezf/ASL_Alphabet" target="_blank">ASL_Alphabet</a>
+     - <a href="https://github.com/jarodriguezf/ElectXChain" target="_blank">ElectXChain</a>
      - <a href="https://github.com/jarodriguezf/MoviesRecommender" target="_blank">MoviesRecommender</a>
      - <a href="https://github.com/jarodriguezf/CV_JobsAI" target="_blank">CV_JobsAI</a>
 
